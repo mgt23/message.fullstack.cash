@@ -40,7 +40,7 @@ class FeedView extends React.Component {
                     Send a message to{' '}
                     <a
                       target="_blank"
-                      href="https://memo.cash/profile/13hev19KaFFD7QqZEenmxUuNPNN8jxCCd5"
+                      href="https://memo.cash/profile/1BuVFzSe7zjknJNVh9u2Xb7uZnPiLuXccq"
                     >
                       this memo.cash profile
                 </a>{' '}
